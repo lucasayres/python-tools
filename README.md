@@ -4,9 +4,7 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 ## Tools
 
-### [calculate_age.py](https://github.com/lucasayres/python-tools/blob/master/tools/calculate_age.py)
-
-Calculate age from date of birth.
+- [calculate_age.py](https://github.com/lucasayres/python-tools/blob/master/tools/calculate_age.py) - Calculate age from date of birth.
 
 ## Contributing
 
