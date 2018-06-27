@@ -1,10 +1,14 @@
 # Python Tools
 
+![Made with Python](http://forthebadge.com/images/badges/made-with-python.svg)
+
 A collection of [Python](https://www.python.org) utilities and tools.
 
 ## Tools
 
 - [calculate_age.py](https://github.com/lucasayres/python-tools/blob/master/tools/calculate_age.py) - Calculate age from date of birth.
+
+- [merge_pdfs.py](https://github.com/lucasayres/python-tools/blob/master/tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
 
 ## Contributing
 
