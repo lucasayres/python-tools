@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
+import re
 from urllib.request import urlopen
 from urllib import parse
-import re
 
 
 def email_web_crawler(urls):
