@@ -12,6 +12,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 - [merge_pdfs.py](https://github.com/lucasayres/python-tools/blob/master/tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
 
+- [unzip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/unzip_file.py) - Unzip file.
+
 ## Contributing
 
 - Any contribution is appreciated.
