@@ -8,6 +8,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 - [calculate_age.py](https://github.com/lucasayres/python-tools/blob/master/tools/calculate_age.py) - Calculate age from date of birth.
 
+- [count_characters.py](https://github.com/lucasayres/python-tools/blob/master/tools/count_characters.py) - Count the number of characters in a text file.
+
 - [email_web_crawler.py](https://github.com/lucasayres/python-tools/blob/master/tools/email_web_crawler.py) - Web crawler for grabbing emails from a website.
 
 - [merge_pdfs.py](https://github.com/lucasayres/python-tools/blob/master/tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
