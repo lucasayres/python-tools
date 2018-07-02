@@ -12,6 +12,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 - [email_web_crawler.py](https://github.com/lucasayres/python-tools/blob/master/tools/email_web_crawler.py) - Web crawler for grabbing emails from a website.
 
+- [get_file_size.py](https://github.com/lucasayres/python-tools/blob/master/tools/get_file_size.py) - Get size of the file in bytes.
+
 - [merge_pdfs.py](https://github.com/lucasayres/python-tools/blob/master/tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
 
 - [unzip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/unzip_file.py) - Unzip file.
