@@ -16,6 +16,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 - [merge_pdfs.py](https://github.com/lucasayres/python-tools/blob/master/tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
 
+- [my_ip.py](https://github.com/lucasayres/python-tools/blob/master/tools/my_ip.py) - Get your external IP.
+
 - [unzip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/unzip_file.py) - Unzip file.
 
 - [zip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/zip_file.py) - Create a zip file.
