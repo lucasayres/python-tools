@@ -14,6 +14,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 - [get_file_size.py](https://github.com/lucasayres/python-tools/blob/master/tools/get_file_size.py) - Get size of the file in bytes.
 
+- [html_to_pdf.py](https://github.com/lucasayres/python-tools/blob/master/tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
+
 - [merge_pdfs.py](https://github.com/lucasayres/python-tools/blob/master/tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
 
 - [my_ip.py](https://github.com/lucasayres/python-tools/blob/master/tools/my_ip.py) - Get your external IP.
