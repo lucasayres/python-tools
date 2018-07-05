@@ -16,6 +16,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 - [email_web_crawler.py](https://github.com/lucasayres/python-tools/blob/master/tools/email_web_crawler.py) - Web crawler for grabbing emails from a website.
 
+- [get_directory_structure.py](https://github.com/lucasayres/python-tools/blob/master/tools/get_directory_structure.py) - Create a dictionary that represents the folder structure of directory.
+
 - [get_file_size.py](https://github.com/lucasayres/python-tools/blob/master/tools/get_file_size.py) - Get size of the file in bytes.
 
 - [html_to_pdf.py](https://github.com/lucasayres/python-tools/blob/master/tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
