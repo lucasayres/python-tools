@@ -6,6 +6,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 ## Tools
 
+- [base64_to_string.py](https://github.com/lucasayres/python-tools/blob/master/tools/base64_to_string.py) - Decode base64 file to plaintext.
+
 - [calculate_age.py](https://github.com/lucasayres/python-tools/blob/master/tools/calculate_age.py) - Calculate age from date of birth.
 
 - [count_characters.py](https://github.com/lucasayres/python-tools/blob/master/tools/count_characters.py) - Count the number of characters in a text file.
