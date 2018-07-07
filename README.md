@@ -28,6 +28,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 - [my_ip.py](https://github.com/lucasayres/python-tools/blob/master/tools/my_ip.py) - Get your external IP.
 
+- [reverse.py](https://github.com/lucasayres/python-tools/blob/master/tools/reverse.py) - Reverse the order of a list or string.
+
 - [unzip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/unzip_file.py) - Unzip file.
 
 - [zip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/zip_file.py) - Create a zip file.
