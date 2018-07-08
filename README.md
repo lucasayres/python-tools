@@ -30,6 +30,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 - [reverse.py](https://github.com/lucasayres/python-tools/blob/master/tools/reverse.py) - Reverse the order of a list or string.
 
+- [send_email.py](https://github.com/lucasayres/python-tools/blob/master/tools/send_email.py) - Send html or text email.
+
 - [unzip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/unzip_file.py) - Unzip file.
 
 - [zip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/zip_file.py) - Create a zip file.
