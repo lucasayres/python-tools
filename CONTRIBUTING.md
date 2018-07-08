@@ -35,9 +35,9 @@ If you want to contribute an feature; go for it!
 
 When contributing a new feature please keep your code style consistent with ours. We try to stick to the pep8 guidelines for Python [https://www.python.org/dev/peps/pep-0008](https://www.python.org/dev/peps/pep-0008).
 
-**DO**
+#### Instructions
 
-* Use pep8 style guidelines.
+* Use [pep8 style guidelines](https://www.python.org/dev/peps/pep-0008).
 * See other codes in this repository for more details.
 * Comment your code where necessary.
 * Submit only a single feature per pull-request.
