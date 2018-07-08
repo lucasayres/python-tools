@@ -32,6 +32,8 @@ A collection of [Python](https://www.python.org) utilities and tools.
 
 - [send_email.py](https://github.com/lucasayres/python-tools/blob/master/tools/send_email.py) - Send html or text email.
 
+- [sha256_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/sha256_file.py) - Calculate SHA256 Hash of a file.
+
 - [unzip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/unzip_file.py) - Unzip file.
 
 - [zip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/zip_file.py) - Create a zip file.
