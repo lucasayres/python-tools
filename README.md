@@ -2,64 +2,48 @@
 
 ![Made with Python](http://forthebadge.com/images/badges/made-with-python.svg)
 
-A collection of [Python](https://www.python.org) utilities and tools.
+A collection of [Python](https://www.python.org) tools and utilities to make your life easier.
 
 ## Tools
 
-- [base64_to_string.py](https://github.com/lucasayres/python-tools/blob/master/tools/base64_to_string.py) - Decode base64 file to plaintext.
+- [base64_to_string.py](tools/base64_to_string.py) - Decode base64 file to plaintext.
 
-- [calculate_age.py](https://github.com/lucasayres/python-tools/blob/master/tools/calculate_age.py) - Calculate age from date of birth.
+- [calculate_age.py](tools/calculate_age.py) - Calculate age from date of birth.
 
-- [count_characters.py](https://github.com/lucasayres/python-tools/blob/master/tools/count_characters.py) - Count the number of characters in a text file.
+- [count_characters.py](tools/count_characters.py) - Count the number of characters in a text file.
 
-- [date_format.py](https://github.com/lucasayres/python-tools/blob/master/tools/date_format.py) - Get format date by language.
+- [date_format.py](tools/date_format.py) - Get format date by language.
 
-- [download_youtube.py](https://github.com/lucasayres/python-tools/blob/master/tools/download_youtube.py) - Download YouTube videos.
+- [download_youtube.py](tools/download_youtube.py) - Download YouTube videos.
 
-- [email_web_crawler.py](https://github.com/lucasayres/python-tools/blob/master/tools/email_web_crawler.py) - Web crawler for grabbing emails from a website.
+- [email_web_crawler.py](tools/email_web_crawler.py) - Web crawler for grabbing emails from a website.
 
-- [get_directory_structure.py](https://github.com/lucasayres/python-tools/blob/master/tools/get_directory_structure.py) - Create a dictionary that represents the folder structure of directory.
+- [get_directory_structure.py](tools/get_directory_structure.py) - Create a dictionary that represents the folder structure of directory.
 
-- [get_file_size.py](https://github.com/lucasayres/python-tools/blob/master/tools/get_file_size.py) - Get size of the file in bytes.
+- [get_file_size.py](tools/get_file_size.py) - Get size of the file in bytes.
 
-- [html_to_pdf.py](https://github.com/lucasayres/python-tools/blob/master/tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
+- [html_to_pdf.py](tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
 
-- [md5_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/md5_file.py) - Calculate MD5 Hash of a file.
+- [md5_file.py](tools/md5_file.py) - Calculate MD5 Hash of a file.
 
-- [merge_pdfs.py](https://github.com/lucasayres/python-tools/blob/master/tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
+- [merge_pdfs.py](tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
 
-- [my_ip.py](https://github.com/lucasayres/python-tools/blob/master/tools/my_ip.py) - Get your external IP.
+- [my_ip.py](tools/my_ip.py) - Get your external IP.
 
-- [reverse.py](https://github.com/lucasayres/python-tools/blob/master/tools/reverse.py) - Reverse the order of a list or string.
+- [reverse.py](tools/reverse.py) - Reverse the order of a list or string.
 
-- [send_email.py](https://github.com/lucasayres/python-tools/blob/master/tools/send_email.py) - Send html or text email.
+- [send_email.py](tools/send_email.py) - Send html or text email.
 
-- [sha256_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/sha256_file.py) - Calculate SHA256 Hash of a file.
+- [sha256_file.py](tools/sha256_file.py) - Calculate SHA256 Hash of a file.
 
-- [unzip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/unzip_file.py) - Unzip file.
+- [unzip_file.py](tools/unzip_file.py) - Unzip file.
 
-- [zip_file.py](https://github.com/lucasayres/python-tools/blob/master/tools/zip_file.py) - Create a zip file.
+- [zip_file.py](tools/zip_file.py) - Create a zip file.
 
 ## Contributing
 
-- Any contribution is appreciated.
-- If you are planning to add a new tool, please open an issue before.
-- Do you need a specific tool? Please open an issue that we will develop for you.
+Any help in testing, development, documentation and other tasks is highly appreciated and useful to the project. For more details, read our [Contributing Guide](CONTRIBUTING.md) to see how you can help.
 
-#### Submitting a Pull Request (PR)
+## LICENSE
 
-1. Clone the project:
-  ```
-  $ git clone https://github.com/lucasayres/python-tools.git
-  ```
-
-2. Make your changes in a new git branch:
-  ```
-  $ git checkout -b my-branch master
-  ```
-
-3. Add your changes.
-
-4. Push your branch to Github.
-
-5. Create a PR to master.
+Python Tools is licensed under the terms of the MIT License (see the file [LICENSE](LICENSE)).
