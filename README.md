@@ -36,6 +36,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [sha256_file.py](tools/sha256_file.py) - Calculate SHA256 Hash of a file.
 
+- [string_to_base64.py](tools/string_to_base64.py) - Encode a text file to base64.
+
 - [unzip_file.py](tools/unzip_file.py) - Unzip file.
 
 - [zip_file.py](tools/zip_file.py) - Create a zip file.
