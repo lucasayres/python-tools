@@ -18,6 +18,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [email_web_crawler.py](tools/email_web_crawler.py) - Web crawler for grabbing emails from a website.
 
+- [file_dir_exists.py](tools/file_dir_exists.py) - Check if file or directory exists.
+
 - [get_directory_structure.py](tools/get_directory_structure.py) - Create a dictionary that represents the folder structure of directory.
 
 - [get_file_size.py](tools/get_file_size.py) - Get size of the file in bytes.
