@@ -42,6 +42,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [string_to_base64.py](tools/string_to_base64.py) - Encode a text file to base64.
 
+- [svg_to_pdf.py](tools/svg_to_pdf.py) - Convert an SVG image to PDF.
+
 - [unzip_file.py](tools/unzip_file.py) - Unzip file.
 
 - [yaml_to_json.py](tools/yaml_to_json.py) - Convert YAML to JSON.
