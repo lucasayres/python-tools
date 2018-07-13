@@ -10,8 +10,6 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [calculate_age.py](tools/calculate_age.py) - Calculate age from date of birth.
 
-- [compress_img.py](tools/compress_img.py) - Compress image.
-
 - [count_characters.py](tools/count_characters.py) - Count the number of characters in a text file.
 
 - [date_format.py](tools/date_format.py) - Get format date by language.
@@ -33,6 +31,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 - [merge_pdfs.py](tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
 
 - [my_ip.py](tools/my_ip.py) - Get your external IP.
+
+- [optimize_image.py](tools/optimize_image.py) - Resize and compress image.
 
 - [reverse.py](tools/reverse.py) - Reverse the order of a list or string.
 
