@@ -34,6 +34,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [optimize_image.py](tools/optimize_image.py) - Resize and compress image.
 
+- [remove_diacritics.py](tools/remove_diacritics.py) - Remove diacritics from the text.
+
 - [reverse.py](tools/reverse.py) - Reverse the order of a list or string.
 
 - [send_email.py](tools/send_email.py) - Send html or text email.
