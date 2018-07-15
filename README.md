@@ -32,6 +32,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [my_ip.py](tools/my_ip.py) - Get your external IP.
 
+- [nato.py](tools/nato.py) - Convert text to NATO phonetic alphabet.
+
 - [optimize_image.py](tools/optimize_image.py) - Resize and compress image.
 
 - [remove_diacritics.py](tools/remove_diacritics.py) - Remove diacritics from the text.
