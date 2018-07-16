@@ -16,7 +16,7 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [download_youtube.py](tools/download_youtube.py) - Download YouTube videos.
 
-- [email_web_crawler.py](tools/email_web_crawler.py) - Web crawler for grabbing emails from a website.
+- [email_web_crawler.py](tools/email_web_crawler.py) - Web crawler for grabbing all emails from a website.
 
 - [file_dir_exists.py](tools/file_dir_exists.py) - Check if file or directory exists.
 
@@ -25,6 +25,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 - [get_file_size.py](tools/get_file_size.py) - Get size of the file in bytes.
 
 - [html_to_pdf.py](tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
+
+- [link_web_crawler.py](tools/link_web_crawler.py) - Web crawler for grabbing all links from a website.
 
 - [md5_file.py](tools/md5_file.py) - Calculate MD5 Hash of a file.
 
