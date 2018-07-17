@@ -26,6 +26,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [html_to_pdf.py](tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
 
+- [json_to_yaml.py](tools/json_to_yaml.py) - Convert JSON to YAML.
+
 - [link_web_crawler.py](tools/link_web_crawler.py) - Web crawler for grabbing all links from a website.
 
 - [md5_file.py](tools/md5_file.py) - Calculate MD5 Hash of a file.
