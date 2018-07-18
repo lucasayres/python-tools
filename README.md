@@ -24,6 +24,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [get_file_size.py](tools/get_file_size.py) - Get size of the file in bytes.
 
+- [get_geolocation.py](tools/get_geolocation.py) - Get geolocation information from IP address or hostname (150 requests per minutes).
+
 - [html_to_pdf.py](tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
 
 - [json_to_yaml.py](tools/json_to_yaml.py) - Convert JSON to YAML.
