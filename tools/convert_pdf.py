@@ -11,7 +11,7 @@ def convert_pdf(input_file, format='text', codec='utf-8'):
 
     Args:
         input_file (str): Input PDF file.
-        format (str): Format text.
+        format (str): Format text or html.
         codec (str): Codec for encode the text.
 
     Returns:
@@ -25,8 +25,6 @@ def convert_pdf(input_file, format='text', codec='utf-8'):
         converter = TextConverter(manager, output, codec=codec, laparams=laparams)
     elif format == 'html':
         converter = HTMLConverter(manager, output, codec=codec, laparams=laparams)
-    else:
-        raise ValueError('Provide format: text or html')
 
     with open(input_file, 'rb') as f1:
         interpreter = PDFPageInterpreter(manager, converter)
