@@ -58,6 +58,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [unzip_file.py](tools/unzip_file.py) - Unzip file.
 
+- [whois.py](tools/whois.py) - Get WHOIS from IP address or hostname.
+
 - [yaml_to_json.py](tools/yaml_to_json.py) - Convert YAML to JSON.
 
 - [zip_file.py](tools/zip_file.py) - Create a zip file.
