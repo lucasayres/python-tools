@@ -6,6 +6,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 ## Tools
 
+- [add_scheme.py](tools/add_scheme.py) - Add scheme to URL if not present.
+
 - [base64_to_string.py](tools/base64_to_string.py) - Decode base64 file to plaintext.
 
 - [calculate_age.py](tools/calculate_age.py) - Calculate age from date of birth.
