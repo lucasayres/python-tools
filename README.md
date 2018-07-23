@@ -10,6 +10,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [base64_to_string.py](tools/base64_to_string.py) - Decode base64 file to plaintext.
 
+- [binary_to_decimal.py](tools/binary_to_decimal.py) - Convert Binary to Decimal.
+
 - [calculate_age.py](tools/calculate_age.py) - Calculate age from date of birth.
 
 - [convert_pdf.py](tools/convert_pdf.py) - Convert PDF file to text or html.
