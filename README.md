@@ -20,6 +20,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [date_format.py](tools/date_format.py) - Get format date by language.
 
+- [decimal_to_binary.py](tools/decimal_to_binary.py) - Convert Decimal to Binary.
+
 - [download_youtube.py](tools/download_youtube.py) - Download YouTube videos.
 
 - [email_web_crawler.py](tools/email_web_crawler.py) - Web crawler for grabbing all emails from a website.
