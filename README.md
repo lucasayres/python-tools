@@ -34,6 +34,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [get_geolocation.py](tools/get_geolocation.py) - Get geolocation information from IP address or hostname (150 requests per minutes).
 
+- [hex_to_dec.py](tools/hex_to_dec.py) - Convert Hexadecimal to Decimal.
+
 - [html_to_pdf.py](tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
 
 - [json_to_yaml.py](tools/json_to_yaml.py) - Convert JSON to YAML.
