@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-def hex_to_dec(hex):
+def hexadecimal_to_decimal(hex):
     """Convert Hexadecimal to Decimal.
 
     Args:
