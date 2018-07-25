@@ -22,6 +22,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [decimal_to_binary.py](tools/decimal_to_binary.py) - Convert Decimal to Binary.
 
+- [decimal_to_hexadecimal.py](tools/decimal_to_hexadecimal.py) - Convert Decimal to Hexadecimal.
+
 - [download_youtube.py](tools/download_youtube.py) - Download YouTube videos.
 
 - [email_web_crawler.py](tools/email_web_crawler.py) - Web crawler for grabbing all emails from a website.
@@ -34,7 +36,7 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [get_geolocation.py](tools/get_geolocation.py) - Get geolocation information from IP address or hostname (150 requests per minutes).
 
-- [hex_to_dec.py](tools/hex_to_dec.py) - Convert Hexadecimal to Decimal.
+- [hexadecimal_to_decimal.py](tools/hexadecimal_to_decimal.py) - Convert Hexadecimal to Decimal.
 
 - [html_to_pdf.py](tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
 
