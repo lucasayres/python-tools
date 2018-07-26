@@ -24,6 +24,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [decimal_to_hexadecimal.py](tools/decimal_to_hexadecimal.py) - Convert Decimal to Hexadecimal.
 
+- [decimal_to_roman.py](tools/decimal_to_roman.py) - Convert decimal number to roman numerals.
+
 - [download_youtube.py](tools/download_youtube.py) - Download YouTube videos.
 
 - [email_web_crawler.py](tools/email_web_crawler.py) - Web crawler for grabbing all emails from a website.
