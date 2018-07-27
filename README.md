@@ -60,6 +60,8 @@ A collection of [Python](https://www.python.org) tools and utilities to make you
 
 - [reverse.py](tools/reverse.py) - Reverse the order of a list or string.
 
+- [roman_to_decimal.py](tools/roman_to_decimal.py) - Convert roman numerals to decimal number.
+
 - [send_email.py](tools/send_email.py) - Send html or text email.
 
 - [sha256_file.py](tools/sha256_file.py) - Calculate SHA256 Hash of a file.
