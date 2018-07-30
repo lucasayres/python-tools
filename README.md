@@ -46,6 +46,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [is_palindrome.py](tools/is_palindrome.py) - Check if string is a Palindrome.
 
+- [is_prime.py](tools/is_prime.py) - Check if a number is a prime number.
+
 - [json_to_yaml.py](tools/json_to_yaml.py) - Convert JSON to YAML.
 
 - [link_web_crawler.py](tools/link_web_crawler.py) - Web crawler for grabbing all links from a website.
