@@ -44,6 +44,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [html_to_pdf.py](tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
 
+- [is_palindrome.py](tools/is_palindrome.py) - Check if string is a Palindrome.
+
 - [json_to_yaml.py](tools/json_to_yaml.py) - Convert JSON to YAML.
 
 - [link_web_crawler.py](tools/link_web_crawler.py) - Web crawler for grabbing all links from a website.
