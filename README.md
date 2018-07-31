@@ -62,6 +62,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [optimize_image.py](tools/optimize_image.py) - Resize and compress image.
 
+- [password_strength_check.py](tools/password_strength_check.py) - Check the strength of password.
+
 - [remove_diacritics.py](tools/remove_diacritics.py) - Remove diacritics from the text.
 
 - [reverse.py](tools/reverse.py) - Reverse the order of a list or string.
