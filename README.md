@@ -18,6 +18,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [count_characters.py](tools/count_characters.py) - Count the number of characters in a text file.
 
+- [count_vowels.py](tools/count_vowels.py) - Count the number of vowels in a text.
+
 - [date_format.py](tools/date_format.py) - Get format date by language.
 
 - [decimal_to_binary.py](tools/decimal_to_binary.py) - Convert Decimal to Binary.
