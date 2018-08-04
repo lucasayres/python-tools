@@ -76,6 +76,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [sha256_file.py](tools/sha256_file.py) - Calculate SHA256 Hash of a file.
 
+- [sqlalchemy_to_dict.py](tools/sqlalchemy_to_dict.py) - Convert SQLAlchemy object to dict.
+
 - [string_to_base64.py](tools/string_to_base64.py) - Encode a text file to base64.
 
 - [svg_to_pdf.py](tools/svg_to_pdf.py) - Convert an SVG image to PDF.
