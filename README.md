@@ -90,6 +90,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [whois.py](tools/whois.py) - Get WHOIS from IP address or hostname.
 
+- [xml_to_dict.py](tools/xml_to_dict.py) - Convert xml to dict.
+
 - [yaml_to_json.py](tools/yaml_to_json.py) - Convert YAML to JSON.
 
 - [zip_file.py](tools/zip_file.py) - Create a zip file.
