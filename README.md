@@ -84,6 +84,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [unzip_file.py](tools/unzip_file.py) - Unzip file.
 
+- [valid_email.py](tools/valid_email.py) - Check for a valid email address.
+
 - [valid_ip.py](tools/valid_ip.py) - Check if IP address is valid.
 
 - [whois.py](tools/whois.py) - Get WHOIS from IP address or hostname.
