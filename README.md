@@ -28,6 +28,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [decimal_to_roman.py](tools/decimal_to_roman.py) - Convert decimal number to roman numerals.
 
+- [dict_to_xml.py](tools/dict_to_xml.py) - Convert dict to xml.
+
 - [download_youtube.py](tools/download_youtube.py) - Download YouTube videos.
 
 - [email_web_crawler.py](tools/email_web_crawler.py) - Web crawler for grabbing all emails from a website.
