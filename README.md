@@ -72,6 +72,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [remove_diacritics.py](tools/remove_diacritics.py) - Remove diacritics from the text.
 
+- [remove_pyc.py](tools/remove_pyc.py) - Remove all .pyc files in the path recursively.
+
 - [reverse.py](tools/reverse.py) - Reverse the order of a list or string.
 
 - [roman_to_decimal.py](tools/roman_to_decimal.py) - Convert roman numerals to decimal number.
