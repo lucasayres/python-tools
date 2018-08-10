@@ -58,6 +58,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [link_web_crawler.py](tools/link_web_crawler.py) - Web crawler for grabbing all links from a website.
 
+- [list_remove_duplicates.py](tools/list_remove_duplicates.py) - Remove duplicates from a list.
+
 - [md5_file.py](tools/md5_file.py) - Calculate MD5 Hash of a file.
 
 - [merge_pdfs.py](tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
