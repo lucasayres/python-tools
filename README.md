@@ -94,6 +94,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [svg_to_pdf.py](tools/svg_to_pdf.py) - Convert an SVG image to PDF.
 
+- [text_to_speech_offline.py](tools/text_to_speech_offline.py) - Convert text to speech offline. It uses different speech engines based on your operating system.
+
 - [unzip_file.py](tools/unzip_file.py) - Unzip file.
 
 - [valid_email.py](tools/valid_email.py) - Check for a valid email address.
