@@ -40,7 +40,7 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [generate_password.py](tools/generate_password.py) - Generate a random password.
 
-- [generate_qrcode_from_url.py](tools/generate_qrcode_from_url.py) - Generate QR Code from URL.
+- [generate_qrcode.py](tools/generate_qrcode.py) - Generate a QR Code.
 
 - [generate_secret_key.py](tools/generate_secret_key.py) - Generate a flask secret key.
 
