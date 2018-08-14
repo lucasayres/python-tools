@@ -68,6 +68,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [merge_pdfs.py](tools/merge_pdfs.py) - Combine multiple pdfs to single pdf.
 
+- [morse_to_text.py](tools/morse_to_text.py) - Convert morse code to text.
+
 - [my_ip.py](tools/my_ip.py) - Get your external IP.
 
 - [nato.py](tools/nato.py) - Convert text to NATO phonetic alphabet.
