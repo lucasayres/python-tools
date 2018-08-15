@@ -96,6 +96,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [svg_to_pdf.py](tools/svg_to_pdf.py) - Convert an SVG image to PDF.
 
+- [text_to_morse.py](tools/text_to_morse.py) - Convert text to morse code.
+
 - [text_to_speech_offline.py](tools/text_to_speech_offline.py) - Convert text to speech offline. It uses different speech engines based on your operating system.
 
 - [text_to_speech_online.py](tools/text_to_speech_online.py) - Convert text to speech using Google Translate’s and save in mp3. Need an internet connection.
