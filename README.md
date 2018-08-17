@@ -88,6 +88,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [send_email.py](tools/send_email.py) - Send html or text email.
 
+- [send_message_telegram.py](tools/send_message_telegram.py) - Send a message to a telegram user. The token can be generated talking with \@BotFather on telegram.
+
 - [sha256_file.py](tools/sha256_file.py) - Calculate SHA256 Hash of a file.
 
 - [sqlalchemy_to_dict.py](tools/sqlalchemy_to_dict.py) - Convert SQLAlchemy object to dict.
