@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import telegram
+import requests
 
 
 def send_message_telegram(msg, chat_id, token):
@@ -7,9 +7,13 @@ def send_message_telegram(msg, chat_id, token):
 
     Args:
         msg (str): Message.
-        chat_id (int): Number.
+        chat_id (str): Number.
         token (str): Authentication Key.
 
+    Returns:
+        dict: Return message sending status.
+
     """
-    bot = telegram.Bot(token=token)
-    bot.sendMessage(chat_id=chat_id, text=msg)
+    response = requests.get('https://api.telegram.org/bot' + token + '/sendMessage?text=' + msg + '&chat_id=' + chat_id)
+    content = response.content.decode('utf8')
+    return content
