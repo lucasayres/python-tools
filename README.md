@@ -44,6 +44,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [generate_secret_key.py](tools/generate_secret_key.py) - Generate a flask secret key.
 
+- [geocode_google.py](tools/geocode_google.py) - Get latitude and longitude from address, using Google Maps Geocoding API.
+
 - [get_directory_structure.py](tools/get_directory_structure.py) - Create a dictionary that represents the folder structure of directory.
 
 - [get_file_size.py](tools/get_file_size.py) - Get size of the file in bytes.
