@@ -54,6 +54,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [hexadecimal_to_decimal.py](tools/hexadecimal_to_decimal.py) - Convert Hexadecimal to Decimal.
 
+- [hexdump.py](tools/hexdump.py) - Generate hexdump of a binary file.
+
 - [html_to_pdf.py](tools/html_to_pdf.py) - Convert HTML to PDF. You can convert a HTML file, HTML string or URL.
 
 - [is_palindrome.py](tools/is_palindrome.py) - Check if string is a Palindrome.
