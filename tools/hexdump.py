@@ -1,28 +1,34 @@
 # -*- coding: utf-8 -*-
-import string
+import itertools
 
 
-def hexdump(filename, length=16, sep='.'):
-    """Generate hexdump of a file.
+def hexdump(filename, chunk_size=16):
+    """Generate hexdump of a binary file.
 
     Args:
-        filename (str): File.
-        length (int): Length.
-        sep (str): Separator.
+        filename (str): Path of file.
+        chunk_size (int): Chunk size.
 
     """
-    with open(filename, 'r') as f:
-        content = f.read()
-        display = string.digits + string.ascii_letters + string.punctuation
-        filters = ''.join(((x if x in display else '.')
-                          for x in map(chr, range(256))))
-        lines = []
-        for c in range(0, len(content), length):
-            chars = content[c:c + length]
-            hex = ' '.join(["%02x" % ord(x) for x in chars])
-            if len(hex) > 24:
-                hex = "%s %s" % (hex[:24], hex[24:])
-            printable = ''.join(["%s" % filters[ord(x)] for x in chars])
-            lines.append("%08x:  %-*s  |%s|\n" %
-                         (c, length * 3, hex, printable))
-        print(''.join(lines))
+    chunks = [iter(range(chunk_size))] * 4
+    header = '   '.join(
+        ' '.join(format(x, '0>2x') for x in chunk)
+        for chunk in itertools.zip_longest(*chunks, fillvalue=0))
+    print('ADDRESS        {:<53}       ASCII'.format(header))
+    print('')
+    template = '{:0>8x}       {:<53}       {}'
+
+    with open(filename, 'rb') as stream:
+        for chunk_count in itertools.count(1):
+            chunk = stream.read(chunk_size)
+            if not chunk:
+                return
+            chunks = [iter(chunk)] * 4
+            print(template.format(
+                chunk_count * chunk_size,
+                '   '.join(
+                    ' '.join(format(x, '0>2x') for x in chunk)
+                    for chunk in itertools.zip_longest(*chunks, fillvalue=0)),
+                ''.join(
+                    chr(x) if 33 <= x <= 126 else '.'
+                    for x in chunk)))
