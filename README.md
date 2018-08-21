@@ -12,6 +12,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [binary_to_decimal.py](tools/binary_to_decimal.py) - Convert Binary to Decimal.
 
+- [bytes_to_human.py](tools/bytes_to_human.py) - Convert bytes to a human readable format.
+
 - [calculate_age.py](tools/calculate_age.py) - Calculate age from date of birth.
 
 - [convert_pdf.py](tools/convert_pdf.py) - Convert PDF file to text or html.
