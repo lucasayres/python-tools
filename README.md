@@ -92,6 +92,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 - [roman_to_decimal.py](tools/roman_to_decimal.py) - Convert roman numerals to decimal number.
 
+- [seconds_to_human.py](tools/seconds_to_human.py) - Convert seconds to a human readable format.
+
 - [send_email.py](tools/send_email.py) - Send html or text email.
 
 - [send_message_telegram.py](tools/send_message_telegram.py) - Send a message to a telegram user. The token can be generated talking with \@BotFather on telegram.
