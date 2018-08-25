@@ -20,7 +20,9 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 1. [count_characters.py](tools/count_characters.py) - Count the number of characters in a text file.
 
-1. [count_files.py](tools/count_files.py) - Count number of files in a diectory recursively.
+1. [count_directories.py](tools/count_directories.py) - Count number of folders in a diectory recursively.
+
+1. [count_files.py](tools/count_files.py) - Count number of files in a directory recursively.
 
 1. [count_vowels.py](tools/count_vowels.py) - Count the number of vowels in a text.
 
