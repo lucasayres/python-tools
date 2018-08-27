@@ -118,6 +118,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 1. [unzip_file.py](tools/unzip_file.py) - Unzip file.
 
+1. [url_shortener.py](tools/url_shortener.py) - Create a shortened URL with TinyURL.
+
 1. [valid_email.py](tools/valid_email.py) - Check for a valid email address.
 
 1. [valid_ip.py](tools/valid_ip.py) - Check if IP address is valid.
