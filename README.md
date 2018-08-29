@@ -90,6 +90,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 1. [remove_diacritics.py](tools/remove_diacritics.py) - Remove diacritics from the text.
 
+1. [remove_file_dir.py](tools/remove_file_dir.py) - Remove a file or directory.
+
 1. [remove_pyc.py](tools/remove_pyc.py) - Remove all .pyc files in the path recursively.
 
 1. [reverse.py](tools/reverse.py) - Reverse the order of a list or string.
