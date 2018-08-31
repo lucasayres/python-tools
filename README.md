@@ -26,6 +26,8 @@ A collection of [Python](https://www.python.org) tools, scripts and utilities to
 
 1. [count_vowels.py](tools/count_vowels.py) - Count the number of vowels in a text.
 
+1. [count_words.py](tools/count_words.py) - Count the occurrences of each word in a given sentence.
+
 1. [date_format.py](tools/date_format.py) - Get format date by language.
 
 1. [decimal_to_binary.py](tools/decimal_to_binary.py) - Convert Decimal to Binary.
